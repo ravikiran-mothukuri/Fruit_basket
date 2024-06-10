@@ -33,3 +33,8 @@ If you have any questions or feedback, feel free to reach out to me:
 
 - GitHub: (https://github.com/ravikiran-mothukuri)
 Project Link On scratch : https://scratch.mit.edu/projects/1034999428
+![Basket](https://github.com/ravikiran-mothukuri/Fruit_basket/assets/75983016/40fd46e2-50b2-4bbd-97db-5a7869e31a0a)
+![Fruit2](https://github.com/ravikiran-mothukuri/Fruit_basket/assets/75983016/7c0d1e8a-3e2f-4c42-b0f2-7ae8cd55d5df)
+
+![Fruit1](https://github.com/ravikiran-mothukuri/Fruit_basket/assets/75983016/7facf336-8f42-45d6-9b37-565a69d2885f)
+![Person](https://github.com/ravikiran-mothukuri/Fruit_basket/assets/75983016/842de689-100f-4d52-8c02-d8a328bb379f)
